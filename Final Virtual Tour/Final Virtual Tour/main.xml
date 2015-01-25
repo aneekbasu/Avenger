@@ -1,0 +1,275 @@
+﻿
+<krpano version="1.0.8" onstart="loadscene(pkrwlvqngf);lookat(0,0,90);">
+    
+  <include url="%SWFPATH%/skin/defaultskin.xml" />
+  <textstyle name="infostyle" origin="top" edge="top" yoffset="10" textalign="center" background="false" border="false"  fontsize="40" textcolor="0xFFFFFF" bold="false" effect="glow(0xFFFFFF,0.7,4,2);glow(0x000000,1,4,2);dropshadow(3,45,0x000000,2,0.6);" showtime="1" fadetime="0.3" />
+ 
+  <scene name="pkrwlvqngf">
+    <view hlookat="0" vlookat="0" 
+    fov="90" fovmin="10" fovmax="120" limitfov="true" fovtype="HFOV" 
+     />
+    
+
+
+	<preview type="CYLINDER" url="%SWFPATH%/tiles/pkrwlvqngf.tiles/preview.jpg" />
+
+	<image type="CYLINDER" multires="true" tilesize="625">
+		<level tiledimagewidth="3750" tiledimageheight="1200">
+			<cylinder url="%SWFPATH%/tiles/pkrwlvqngf.tiles/l1_%0v_%0h.jpg" />
+		</level>
+	</image>
+
+
+    <!--Scene hotspots-->
+    
+    <!--Hotspot-->
+    <hotspot name="hs28377" 
+      keep="false" 
+      visible="true" 
+      enabled="true" handcursor="true" 
+      capture="false"  children="true" 
+      
+      zorder="2"
+      url="%SWFPATH%/touricons/1_1.png" 
+      ath="-20.683068993390577" atv="-25.79779438231725"
+      scale="0.5" 
+      
+      onover="" 
+      onhover="" 
+      xonout="" ondown="" onup="" 
+      onclick="
+      loadscene(lroimuxcqb);lookat(0, 0, 90);
+      
+      
+      "> 
+        
+      </hotspot>
+      
+      
+      
+      
+    
+  </scene>
+  
+  <scene name="tngrpaemuo">
+    <view hlookat="0" vlookat="0" 
+    fov="90" fovmin="10" fovmax="120" limitfov="true" fovtype="HFOV" 
+     />
+    
+
+
+	<preview type="CYLINDER" url="%SWFPATH%/tiles/tngrpaemuo.tiles/preview.jpg" />
+
+	<image type="CYLINDER" multires="true" tilesize="625">
+		<level tiledimagewidth="3750" tiledimageheight="1200">
+			<cylinder url="%SWFPATH%/tiles/tngrpaemuo.tiles/l1_%0v_%0h.jpg" />
+		</level>
+	</image>
+
+
+    <!--Scene hotspots-->
+    
+    <!--Hotspot-->
+    <hotspot name="hs28378" 
+      keep="false" 
+      visible="true" 
+      enabled="true" handcursor="true" 
+      capture="false"  children="true" 
+      
+      zorder="2"
+      url="%SWFPATH%/touricons/1_1.png" 
+      ath="3.9877255724518363" atv="-20.75110519687896"
+      scale="0.5" 
+      
+      onover="" 
+      onhover="" 
+      xonout="" ondown="" onup="" 
+      onclick="
+      loadscene(lroimuxcqb);lookat(0, 0, 90);
+      
+      
+      "> 
+        
+      </hotspot>
+      
+      
+      
+      
+    
+  </scene>
+  
+  <scene name="lroimuxcqb">
+    <view hlookat="0" vlookat="0" 
+    fov="90" fovmin="10" fovmax="120" limitfov="true" fovtype="HFOV" 
+     />
+    
+
+
+	<preview type="CYLINDER" url="%SWFPATH%/tiles/lroimuxcqb.tiles/preview.jpg" />
+
+	<image type="CYLINDER" multires="true" tilesize="625">
+		<level tiledimagewidth="3750" tiledimageheight="1200">
+			<cylinder url="%SWFPATH%/tiles/lroimuxcqb.tiles/l1_%0v_%0h.jpg" />
+		</level>
+	</image>
+
+
+    <!--Scene hotspots-->
+    
+    <!--Hotspot-->
+    <hotspot name="hs28379" 
+      keep="false" 
+      visible="true" 
+      enabled="true" handcursor="true" 
+      capture="false"  children="true" 
+      
+      zorder="2"
+      url="%SWFPATH%/touricons/1_1.png" 
+      ath="0.5509039792185604" atv="-4.261564108250251"
+      scale="0.5" 
+      
+      onover="" 
+      onhover="" 
+      xonout="" ondown="" onup="" 
+      onclick="
+      loadscene(tcpybgxnhq);lookat(0, 0, 90);
+      
+      
+      "> 
+        
+      </hotspot>
+      
+      
+      
+      
+    
+  </scene>
+  
+  <scene name="tcpybgxnhq">
+    <view hlookat="0" vlookat="0" 
+    fov="90" fovmin="10" fovmax="120" limitfov="true" fovtype="HFOV" 
+     />
+    
+
+
+	<preview type="CYLINDER" url="%SWFPATH%/tiles/tcpybgxnhq.tiles/preview.jpg" />
+
+	<image type="CYLINDER" multires="true" tilesize="625">
+		<level tiledimagewidth="3750" tiledimageheight="1200">
+			<cylinder url="%SWFPATH%/tiles/tcpybgxnhq.tiles/l1_%0v_%0h.jpg" />
+		</level>
+	</image>
+
+
+    <!--Scene hotspots-->
+    
+    <!--Hotspot-->
+    <hotspot name="hs28380" 
+      keep="false" 
+      visible="true" 
+      enabled="true" handcursor="true" 
+      capture="false"  children="true" 
+      
+      zorder="2"
+      url="%SWFPATH%/touricons/17_1.png" 
+      ath="3.576334374997373" atv="-2.60997162313534"
+      scale="0.5" 
+      
+      onover="" 
+      onhover="" 
+      xonout="" ondown="" onup="" 
+      onclick="
+      loadscene(vslirxgkyw);lookat(0, 0, 90);
+      
+      
+      "> 
+        
+      </hotspot>
+      
+      
+      
+      
+    
+    <!--Hotspot-->
+    <hotspot name="hs28383" 
+      keep="false" 
+      visible="true" 
+      enabled="true" handcursor="true" 
+      capture="false"  children="true" 
+      
+      zorder="2"
+      url="%SWFPATH%/touricons/1_1.png" 
+      ath="3.576334374997373" atv="-2.8842636134636153"
+      scale="0.5" 
+      
+      onover="" 
+      onhover="" 
+      xonout="" ondown="" onup="" 
+      onclick="
+      loadscene(vslirxgkyw);lookat(0, 0, 90);
+      
+      
+      "> 
+        
+      </hotspot>
+      
+      
+      
+      
+    
+  </scene>
+  
+  <scene name="vslirxgkyw">
+    <view hlookat="0" vlookat="0" 
+    fov="90" fovmin="10" fovmax="120" limitfov="true" fovtype="HFOV" 
+     />
+    
+
+
+	<preview type="CYLINDER" url="%SWFPATH%/tiles/vslirxgkyw.tiles/preview.jpg" />
+
+	<image type="CYLINDER" multires="true" tilesize="625">
+		<level tiledimagewidth="3750" tiledimageheight="1200">
+			<cylinder url="%SWFPATH%/tiles/vslirxgkyw.tiles/l1_%0v_%0h.jpg" />
+		</level>
+	</image>
+
+
+    <!--Scene hotspots-->
+    
+  </scene>
+  
+  <!--css for text in textfield-->
+  <data name="css">
+      p{color:#000000; font-family:Arial; font-size:19;}
+      h{color:#000000; font-family:Arial; font-size:23; text-align:center;}
+      sh{color:#000000; font-family:Arial; font-size:20;}
+      a{ text-decoration:underline; color:#110088;} a:hover { color:#885500; } 
+  </data>
+  <plugin name="tourmaker_logo"
+          url="%SWFPATH%/skin/tourmaker_logo.png" 
+  	      keep="true"  
+	        align="leftbottom" x="3"  y="3" 
+	        alpha="0.95" handcursor="true"
+	        enabled="true" capture="false" 
+	        edge="leftbottom"
+	        scalechildren="true"
+          width="124"
+          height="30"
+          onclick="openurl(http://www.makevt.com/,_blank);"
+  />
+  <plugin name="krpano_logo"
+          url="%SWFPATH%/skin/krpano_logo.png" 
+  	      keep="true"  
+	        align="rightbottom" x="3"  y="3" 
+	        alpha="0.95" handcursor="true"
+	        enabled="true" capture="false"  
+	        edge="rightbottom"
+	        scalechildren="true"
+          width="154"
+          height="16"
+          onclick="openurl(http://www.krpano.com/,_blank);"
+  />
+</krpano>
+
+
